@@ -94,4 +94,4 @@ response.data.daily.forEach(function (day, index) {
 let searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit", handleSearchSubmit);
 
-searchCity("St Petersberg");
+searchCity("Hua Hin");
